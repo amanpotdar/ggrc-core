@@ -1,6 +1,9 @@
 Governance, Risk and Compliance (GGRC)
 =========
 
+
+
+
 Governance, Risk Management, and Compliance are activities necessary for any organization with regulatory or contractual obligations.
 
 Governance refers to management structure, policies, procedures, shareholder relations, etc.
@@ -9,6 +12,7 @@ Risk Management is a process to identify business and technical risks as well as
 
 Compliance refers to processes necessary to meet applicable regulations and communicate to stakeholders about it.
 
+
 Many organizations operate in multiple jurisdictions worldwide, each of which has its own and often overlapping laws and regulations.   Organizational functions and information relating to risk management and compliance often tend to be managed in silos reflecting the multiple jurisdictions, scope, stakeholder diversity and historical basis.   This leads to inefficiency.
 
 The GGRC project intends to provide an open source solution for managing some of these common problems.  The application provides a common system of record for information in this domain.   It provides the ability to capture the relationships and to understand how the pieces fit together.  It also provides workflow capability to manage processes in this domain.
@@ -16,6 +20,11 @@ The GGRC project intends to provide an open source solution for managing some of
 
 Migrated from [Google](https://code.google.com/archive/p/compliance-management)
 [Code](https://code.google.com/archive/p/ggrc-core).
+
+
+
+
+
 
 
 ## Requirements
